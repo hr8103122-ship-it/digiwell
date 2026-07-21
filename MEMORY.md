@@ -44,11 +44,11 @@ The public-facing homepage acts as a marketing and conversion surface, driving d
 | Homepage | ✅ Complete | Full landing page with 13 section components |
 | Root layout | ✅ Complete | Metadata, global CSS, HTML shell |
 | Route scaffolding | 🟡 Scaffolded | 25+ route folders exist with `.gitkeep` placeholders |
-| Authentication | ❌ Not started | `/login`, `/signup` folders exist, no pages |
+| Authentication | ✅ Complete | Login, signup, forgot password UI implemented |
 | Student panel | ❌ Not started | `/student` folder scaffolded |
 | Teacher panel | ❌ Not started | `/teacher` folder scaffolded |
 | Admin panel | ❌ Not started | `/admin` folder scaffolded |
-| shadcn/ui components | ❌ Not started | `components/ui/` folder ready, no components installed |
+| shadcn/ui components | 🟡 Partially installed | Base UI components for forms added |
 | Backend / API | ❌ Not started | `services/` folder scaffolded |
 | Database | ❌ Not started | No ORM or schema defined |
 | Middleware | 🟡 Placeholder | Empty middleware with no matcher |
